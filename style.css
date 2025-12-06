@@ -137,19 +137,32 @@
 
 .section__btn--button{
     border-radius: 88px;
-    background: ;
-    border: none;
+    background: rgb(87, 255, 35);
+    border: 3px solid rgb(87, 255, 35);
     padding: 15px 35px;
-    color: rgb(0, 255, 55);
+    color: rgb(0, 0, 0);
     font-size: 24px;
     font-weight: 700;
+}
+
+.section__btn--button:active{
+    box-shadow: 0 0 40px rgb(87, 255, 35);
+    background: none;
+    border: 3px solid rgb(87, 255, 35);
+    color: rgb(0, 255, 55);
+}
+
+.section__btn--buttonn:active{
+    box-shadow: 0 0 40px rgb(87, 255, 35);
+    background: rgb(87, 255, 35);
+    color: black;
 }
 
 .section__btn--buttonn{
     border-radius: 88px;
     background: none;
     border: 3px solid rgb(87, 255, 35);
-    padding: 15px 35px;
+    padding: 15px 48px;
     color: rgb(0, 255, 55);
     font-size: 24px;
     font-weight: 700;
