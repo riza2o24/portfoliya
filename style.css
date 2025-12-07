@@ -10,13 +10,15 @@
     font-family: "Inter", sans-serif;
 }
 
+body{
+    background-color: rgb(0, 0, 0);
+}
 
 .contener{
     width: 100%;
     max-width: 1980px;
     margin: auto;
     padding: 0 100px;
-    background-color: rgb(0, 0, 0);
 }
 
 .header{
@@ -145,14 +147,14 @@
     font-weight: 700;
 }
 
-.section__btn--button:active{
+.section__btn--button:hover{
     box-shadow: 0 0 40px rgb(87, 255, 35);
     background: none;
     border: 3px solid rgb(87, 255, 35);
     color: rgb(0, 255, 55);
 }
 
-.section__btn--buttonn:active{
+.section__btn--buttonn:hover{
     box-shadow: 0 0 40px rgb(87, 255, 35);
     background: rgb(87, 255, 35);
     color: black;
