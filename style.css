@@ -65,10 +65,11 @@ body{
     width: 600px;
     height: 600px;
     border-radius: 50%;
+    border: 6px solid rgb(87, 255, 35);
 }
 
 .section__image:hover{
-    text-shadow: 0 0 0px rgb(87, 255, 35);
+    box-shadow: 0 0px 80px rgb(87, 255, 35);
 }
 
 .section__box--text{
@@ -148,14 +149,14 @@ body{
 }
 
 .section__btn--button:hover{
-    box-shadow: 0 0 40px rgb(87, 255, 35);
+    box-shadow: 0 0 45px rgb(87, 255, 35);
     background: none;
     border: 3px solid rgb(87, 255, 35);
     color: rgb(0, 255, 55);
 }
 
 .section__btn--buttonn:hover{
-    box-shadow: 0 0 40px rgb(87, 255, 35);
+    box-shadow: 0 0 45px rgb(87, 255, 35);
     background: rgb(87, 255, 35);
     color: black;
 }
