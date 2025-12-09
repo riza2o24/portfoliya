@@ -27,6 +27,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    position: sticky;
+    top: 0;
+    background-color: black;
 }
 
 .header__image{
@@ -55,7 +58,7 @@ body{
 
 .section{
     width: 100%;
-    height: 1000px;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -174,7 +177,10 @@ body{
 
 /* figma */
 .figma{
-    margin-bottom: 90px;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
 }
 
 .figma__text{
@@ -183,12 +189,14 @@ body{
     font-weight: 700;
     color: white;
     margin-bottom: 70px;
+    margin-top: 90px;
 }
 
 .figma__box{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 50px;
 }
 
 
@@ -205,7 +213,7 @@ body{
 }
 
 .figma__card--imge{
-    width: 364px;
+    width: 362px;
     height: 240px;
     border-radius: 4px;
 }
@@ -219,6 +227,7 @@ body{
     color: rgb(0, 255, 55);
     font-weight: 700;
     margin-bottom: 15px;
+    text-shadow: 0 0 50px rgb(0, 255, 55);
 }
 
 .figma__card--paragrf{
