@@ -22,14 +22,21 @@ body{
 }
 
 .header{
+    margin-top: 20px;
     width: 100%;
     height: 120px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     position: sticky;
+    border-radius: 200px;
     top: 0;
     background-color: black;
+    /* box-shadow: 0 0 10px rgba(86, 255, 35, 0.541); */
+}
+
+.header:hover{
+    box-shadow: 0 0 45px rgba(86, 255, 35, 0.541);
 }
 
 .header__image{
