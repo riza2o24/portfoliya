@@ -248,14 +248,14 @@ body{
     border-radius: 8px;
     background: none;
     border: 4px solid rgb(87, 255, 35);
-    color: rgb(0, 255, 55);
+    color: rgb(255, 255, 255);
     font-size: 18px;
     font-weight: 700;
 }
 
 .figma__card--btn:active{
     background-color: rgb(87, 255, 35);
-    color: white;
+    color: rgb(0, 0, 0);
     box-shadow: 0 0 45px rgb(87, 255, 35);
 }
 
