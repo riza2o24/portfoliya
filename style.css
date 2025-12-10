@@ -269,6 +269,13 @@ body{
     margin-bottom: 20px;
 }
 
+.about__text--paragrf{
+    width: 900px;
+    font-size: 16px;
+    color: white;
+    margin-top: 40px;
+}
+
 
 
 
