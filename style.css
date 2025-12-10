@@ -287,6 +287,12 @@ body{
     font-weight: 700;
 }
 
+.about__text--btn:hover{
+    background-color: rgb(87, 255, 35);
+    box-shadow: 0 0 35px rgb(0, 255, 55);
+    color: black;
+}
+
 
 
 
