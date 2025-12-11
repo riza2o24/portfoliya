@@ -295,6 +295,17 @@ body{
 
 
 
+/* contact */
+
+
+.contact__text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
 
 
 
