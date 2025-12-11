@@ -306,14 +306,29 @@ body{
 
 
 .input__text{
-    width: 250px;
-    height: 45px;
+    display: block;
+    width: 550px;
+    height: 65px;
     border-radius: 500px;
-    text-indent: 20px;
+    text-indent: 30px;
     background: none;
     border: 3px solid rgb(87, 255, 35);
     color: wheat;
+    margin-bottom: 30px;
 }
+
+.input__text
+
+.inputs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+
+
 
 
 
