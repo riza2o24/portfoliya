@@ -343,7 +343,7 @@ body{
     border-radius: 8px;
     background: none;
     border: 3px solid rgb(87, 255, 35);
-    color: rgb(87, 255, 35);
+    color: rgb(255, 255, 255);
     font-size: 17.9px;
     margin-bottom: 40px;
     outline: none;
@@ -368,7 +368,7 @@ body{
 
 .input2__btn:active{
     border: 4px solid rgb(87, 255, 35);
-    box-shadow: 0 0 50px rgb(87, 255, 35);
+    box-shadow: 0 0 30px rgb(87, 255, 35);
     background: none;
     color: rgb(87, 255, 35);
 }
@@ -388,6 +388,6 @@ body{
 .input2__input:active{
     background-color: rgb(87, 255, 35);
     color: black;
-    box-shadow: 0 0 50px rgb(87, 255, 35);
+    box-shadow: 0 0 30px rgb(87, 255, 35);
 }
 
