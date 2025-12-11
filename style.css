@@ -313,11 +313,15 @@ body{
     text-indent: 30px;
     background: none;
     border: 3px solid rgb(87, 255, 35);
-    color: wheat;
+    color: rgb(87, 255, 35);
+    font-size: 17.9px;
     margin-bottom: 30px;
 }
 
-.input__text
+.input__text:focus{
+    border: none;
+    box-shadow: 0 0 50px rgb(87, 255, 35);
+}
 
 .inputs{
     display: flex;
@@ -325,8 +329,9 @@ body{
     justify-content: center;
     gap: 40px;
     margin-top: 50px;
-    margin-bottom: 200px;
+    margin-bottom: 300px;
 }
+
 
 
 
