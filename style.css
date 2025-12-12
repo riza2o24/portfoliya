@@ -391,3 +391,8 @@ body{
     box-shadow: 0 0 30px rgb(87, 255, 35);
 }
 
+/* footer */
+.footer{
+    display: flex;
+    justify-content: center;
+}
