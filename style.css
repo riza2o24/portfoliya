@@ -414,7 +414,7 @@ body{
 
 .footer__nav--link{
     font-size: 22px;
-    font-weight: 600;
+    font-weight: 500;
     color: white;
 }
 
@@ -424,5 +424,16 @@ body{
 }
 
 .footer__nav--text{
-    
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+}
+
+.footer__nav--span{
+    color: rgb(87, 255, 35);
 }
