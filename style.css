@@ -294,7 +294,9 @@ body{
 
 
 /* contact */
-
+.contact{
+    height: 1300px;
+}
 
 .contact__text{
     display: flex;
