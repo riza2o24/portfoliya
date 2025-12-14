@@ -36,7 +36,7 @@ body{
 }
 
 .header:hover{
-    box-shadow: 0 0 45px rgba(86, 255, 35, 0.541);
+    box-shadow: 0 0 45px rgba(85, 255, 34, 0.541);
 }
 
 .header__image{
