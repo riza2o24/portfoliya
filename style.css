@@ -438,4 +438,12 @@ body{
 
 .footer__nav--span{
     color: rgb(87, 255, 35);
+    empty-cells: show;
 }
+
+
+
+
+
+
+
