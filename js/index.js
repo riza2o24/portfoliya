@@ -1,1 +1,1 @@
-alert ("hush kelibsiz 😊")
+alert ("Asallomu alaykum hush kelibsiz 😊")
