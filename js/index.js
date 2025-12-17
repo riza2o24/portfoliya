@@ -7,5 +7,3 @@ confirm ("ismingiz" + (" ") + fname + (" ") + "mi")
 
 
 
-
-asdf
