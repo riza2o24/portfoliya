@@ -8,7 +8,3 @@ confirm ("ismingiz" + (" ") + fname + (" ") + "mi")
 
 
 asdfgh
-
-
-
-asdfghj
