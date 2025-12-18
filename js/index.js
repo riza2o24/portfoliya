@@ -6,3 +6,6 @@ confirm ("ismingiz" + (" ") + fname + (" ") + "mi")
 
 
 qwert
+
+
+asdfgh
