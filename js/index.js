@@ -18,5 +18,3 @@ qwertyuiii
 qwertkjhgfds
 
 
-
-qwerty
