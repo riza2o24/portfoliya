@@ -20,5 +20,3 @@ qwertkjhgfds
 
 
 qwerty
-
-qwerjhgfds
