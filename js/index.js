@@ -9,7 +9,3 @@ confirm ("ismingiz" + (" ") + fname + (" ") + "mi")
 qwertyu
 
 
-    qwertyui
-
-
-
