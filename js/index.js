@@ -6,6 +6,5 @@ confirm ("ismingiz" + (" ") + fname + (" ") + "mi")
 
 
 
-qwertyu
 
 
