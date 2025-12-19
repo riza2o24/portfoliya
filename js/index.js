@@ -7,3 +7,8 @@ confirm ("ismingiz" + (" ") + fname + (" ") + "mi")
 
 
 qwertyu
+
+
+
+
+qwertyuiii
