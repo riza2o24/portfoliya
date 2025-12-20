@@ -7,4 +7,4 @@ confirm ("ismingiz" + (" ") + fname + (" ") + "mi")
 
 qwertyuu
 
-
+hgfdsaaaaaaaaa
