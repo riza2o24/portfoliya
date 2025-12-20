@@ -8,3 +8,5 @@ confirm ("ismingiz" + (" ") + fname + (" ") + "mi")
 qwertyuu
 
 hgfdsaaaaaaaaa
+
+4
